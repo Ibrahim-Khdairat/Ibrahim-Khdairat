@@ -41,3 +41,52 @@ header nav ul li a
     letter-spacing: 1px;
     font-family: sans-serif;
 }
+
+header nav ul li a:current
+{
+    color: #F0860C;
+}
+
+main section:first-child h1
+{
+    color: white;
+    font-size: 64px;
+    width: 900px;
+    font-family: sans-serif;
+    padding: 10px 40px;
+
+
+}
+
+main section:first-child p
+{
+    color: white;
+  font-size: 18px;
+  font-family: sans-serif;
+  padding: 10px 40px;
+  width: 900px;
+  letter-spacing: 1px;
+  line-height: 30px;
+  font-weight: 100;
+
+}
+
+main section:first-child ul
+{
+    list-style-type:disc;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px 40px;
+    width: 900px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-weight: 100;
+}
+
+main section:first-child a
+{
+    text-decoration: none;
+      color: #F0860C;
+    
+}

@@ -13,8 +13,10 @@ header
 {
     background-color: #181818ed;
     width: 100%;
-    /* position: fixed; */
+    position: fixed;
+    top: 0%;
     margin-bottom: 100px;
+
 }
 
 header nav
@@ -40,4 +42,14 @@ header nav ul li a
     font-size: larger;
     letter-spacing: 1px;
     font-family: sans-serif;
+}
+
+.workSpace
+{
+    /* background-image: url('https://wallpapercave.com/wp/ll3GLmS.jpg'); */
+    margin-top: 600px;
+    background-color: rgb(1, 0, 37);
+    height: 600px;
+    background-repeat: none;
+    background-size: cover;
 }

@@ -43,6 +43,12 @@ header nav ul li a
 }
 
 
+header nav ul li a:current
+{
+    color: #F0860C;
+}
+
+
 main section:first-child
 {
     margin-left: 60px;
