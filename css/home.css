@@ -52,7 +52,7 @@ header nav ul li a:current
 main section:first-child
 {
     margin-left: 60px;
-    /* transition:  2s ease-out; */
+    transition:  5s ease-out;
 
 }
 main section:first-child h2

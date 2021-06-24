@@ -6,6 +6,8 @@ body
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 1000px 1000px;
+    font-family: sans-serif;
+
 }
 
 
@@ -46,10 +48,105 @@ header nav ul li a
 
 .workSpace
 {
-    /* background-image: url('https://wallpapercave.com/wp/ll3GLmS.jpg'); */
+    background-image: -webkit-linear-gradient( 0deg,#050050 0%,#0b0836 50% , #010011 100%);    
     margin-top: 600px;
-    background-color: rgb(1, 0, 37);
+    /* background-color: rgb(1, 0, 37); */
     height: 600px;
+    max-height: auto;
     background-repeat: none;
     background-size: cover;
+    color: white;
+}
+
+
+
+#information
+{
+    float: left;
+    height: 500px;
+}
+#imgcontainer 
+{
+    float: right;
+    margin-right: 100px;
+    margin-top: 130px;
+}
+#imgcontainer img
+{
+ width: 600px;
+ height: 350px;
+ border-radius: 30px;
+}
+
+.workSpace li
+{
+    list-style-type: none;
+    font-size: 80px;
+    color: #F0860C;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px 4px  white;
+    padding-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 60px;
+    width: 700px;
+
+}
+
+.workSpace p
+{
+    width: 700px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: large;
+    letter-spacing: 2px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+.workSpace span
+{
+    color: #F0860C;
+    font-size: x-large;
+}
+
+.workSpace p a
+{
+    color: white;
+}
+
+#Show
+{
+    margin-left: 200px;
+    font-weight: bold;
+    margin-top: 100px;
+    font-size: large;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+}
+#Show:hover
+{
+    color: #F0860C;
+    background-image: -webkit-linear-gradient( 0deg,#0b00a1 0%,#09017e 50% , #05013f 100%);    
+ transform: scale(1.5);
+
+}
+
+#onlineGalary img
+{
+   
+    width: 550px;
+    height: 350px;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+#onlineGalary {
+
+
+width: 700px;
+margin-left: auto;
+margin-right: auto;
 }
