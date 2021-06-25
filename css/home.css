@@ -86,8 +86,10 @@ main section:first-child h3
 {
     color: white;
     font-size: 21px;
+    width: 800px;
     padding: 20px 40px;
     font-family: sans-serif;
+    line-height:30px ;
 
 
 }

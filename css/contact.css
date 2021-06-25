@@ -41,3 +41,51 @@ header nav ul li a
     letter-spacing: 1px;
     font-family: sans-serif;
 }
+
+
+ul li i
+{
+    color: white;
+    padding-right: 30px;
+    font-size: x-large;
+}
+ul 
+{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 30px;
+}
+
+main ul li
+{
+    padding: 20px;
+    font-size: x-large;
+    letter-spacing: 2px;
+}
+
+ul a
+{
+    text-decoration: none;
+    color: white;
+}
+
+#whatsapp
+{
+    color: #128C7E;
+}
+
+#mail
+{
+    color: #F0860C;
+
+}
+
+#link
+{
+    color:#0e76a8; 
+}
+
+#location
+{
+    color: #9b51de;
+}

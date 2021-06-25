@@ -48,7 +48,9 @@ header nav ul li a
 
 .workSpace
 {
-    background-image: -webkit-linear-gradient( 0deg,#050050 0%,#0b0836 50% , #010011 100%);    
+    /* background-image: -webkit-linear-gradient( 0deg,#050050 0%,#0b0836 50% , #010011 100%);     */
+    background-image: -webkit-linear-gradient( 0deg,#333333 0%,#161616 50% , #000000 100%);    
+
     margin-top: 600px;
     /* background-color: rgb(1, 0, 37); */
     height: 600px;
@@ -129,7 +131,7 @@ header nav ul li a
 #Show:hover
 {
     color: #F0860C;
-    background-image: -webkit-linear-gradient( 0deg,#0b00a1 0%,#09017e 50% , #05013f 100%);    
+    background-image: -webkit-linear-gradient( 0deg,#333333 0%,#161616 50% , #000000 100%);    
  transform: scale(1.5);
 
 }
